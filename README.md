@@ -7,8 +7,8 @@ This project focuses on reducing inspection time for PPL (Pressure Plate Leaf) f
 Traditional inspection of filter blockages is time-consuming and often exposes operators to harsh environments. To address this, I developed a computer vision system capable of detecting clogging in PPL filters automatically.
 
 By integrating image processing techniques and real-time image processing, the system achieved a **reduction in inspection time**, improving operational safety and maintenance efficiency.
-## 📌 Problem Statement
 
+## 📌 Problem Statement
 In mining and industrial filtration processes, PPL filters play a crucial role in separating solids from liquids. Blockages in these filters can lead to process inefficiencies, equipment wear, and unexpected downtime. Manual inspection is often slow, imprecise, and exposes personnel to high-risk environments. That's why it's so important to know as quickly as possible when these blockages occur.
 ---
 
