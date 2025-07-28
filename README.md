@@ -1,4 +1,3 @@
-# JAM-DETECTION
 # PPL Filter Blockage Detection with Computer Vision
 
 This project focuses on reducing inspection time for PPL (Pressure Plate Leaf) filter blockages in mineral processing plants using AI-based visual analysis.
@@ -8,6 +7,19 @@ This project focuses on reducing inspection time for PPL (Pressure Plate Leaf) f
 Traditional inspection of filter blockages is time-consuming and often exposes operators to harsh environments. To address this, I developed a computer vision system capable of detecting clogging in PPL filters automatically.
 
 By integrating machine learning techniques and real-time image processing, the system achieved a **40% reduction in inspection time**, improving operational safety and maintenance efficiency.
+## 📌 Problem Statement
+
+In mining and industrial filtration processes, PPL filters play a crucial role in separating solids from liquids. Blockages in these filters can lead to process inefficiencies, equipment wear, and unexpected downtime. Manual inspection is often slow, imprecise, and exposes personnel to high-risk environments.
+
+---
+
+## 🎯 Project Objective
+
+To develop and deploy a **computer vision solution** that automatically detects blockages in PPL filters using real-time image analysis, thereby:
+
+- Reducing inspection time by at least **40%**
+- Improving safety by minimizing the need for manual inspection
+- Enabling predictive maintenance with early anomaly detection
 
 ## 🔧 Technologies Used
 
