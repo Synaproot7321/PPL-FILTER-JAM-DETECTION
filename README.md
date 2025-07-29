@@ -28,9 +28,16 @@ To develop and deploy a **computer vision solution** that automatically detects 
 
 ## 🧠 How It Works
 
-1. **Image Acquisition**: Captures images of the PPL filter surface in operation.
-2. **Preprocessing**: Enhances image quality and isolates relevant features.
-3. **Make Inferences**: Using mathematical operations and image processing techniques, an inference is generated.
+1. **Analysis Start**: The process begin after each discharge.
+
+| ![Clogged Filter](https://github.com/user-attachments/assets/1b4e9d1f-6e1f-4032-85de-85e816bb2506) |
+|:--------------------------------------------------------------------------------------------------:|
+| Discharging                                                                                    |
+
+
+3. **Image Acquisition**: Captures images of the PPL filter surface in operation.
+4. **Preprocessing**: Enhances image quality and isolates relevant features.
+5. **Make Inferences**: Using mathematical operations and image processing techniques, an inference is generated.
  
 | ![Imagen 1](https://github.com/user-attachments/assets/00daf053-418f-44b9-a9ce-88a23cca7cc9) | ![Imagen 2](https://github.com/user-attachments/assets/27dc428d-a4e4-4574-ae63-a90d512dea47)]|
 |:-----------------------------:|:-----------------------------:|
