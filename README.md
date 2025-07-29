@@ -32,25 +32,17 @@ To develop and deploy a **computer vision solution** that automatically detects 
 2. **Preprocessing**: Enhances image quality and isolates relevant features.
 3. **Make Inferences**: Using mathematical operations and image processing techniques, an inference is generated.
  
-  
-<p float="left">
-  <figure style="display: inline-block; margin-right: 10px;">
-    <img src=<img width="212" height="207" alt="CLOGED" src="https://github.com/user-attachments/assets/f84bf64a-adbb-47be-b299-3662d15ad670" />  width="300"/>
-    <figcaption style="text-align: center;">Título de la imagen 1</figcaption>
-  </figure>
+| ![Imagen 1](https://github.com/user-attachments/assets/00daf053-418f-44b9-a9ce-88a23cca7cc9) | ![Imagen 2](https://github.com/user-attachments/assets/27dc428d-a4e4-4574-ae63-a90d512dea47)]|
+|:-----------------------------:|:-----------------------------:|
+| Clogged Filter        | Unclogged Filter        |
 
-  <figure style="display: inline-block;">
-    <img src=<img width="98" height="145" alt="CLEAN" src="https://github.com/user-attachments/assets/a800e00e-a98a-4fc6-b0ee-0557fab7ce7c" /> width="300"/>
-    <figcaption style="text-align: center;">Título de la imagen 2</figcaption>
-  </figure>
-</p>
 
 ## 📊 Impact
 
 - ⏱️ Reduced inspection time
 - 🔧 Improved maintenance scheduling
 - 🧯 Enhanced operator safety by minimizing manual inspections
-- 🧯 Prevented excessive clogging
+- ⚠️ Prevented excessive clogging
 
 
 
