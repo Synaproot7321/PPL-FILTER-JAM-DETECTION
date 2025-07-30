@@ -1,7 +1,8 @@
 # PPL Filter Blockage Detection with Computer Vision
 
-This project focuses on reducing inspection time for PPL (Pressure Plate Leaf) filter blockages in mineral processing plants using visual analysis. During my experience in the mining sector, I participated in the development of a visual inspection system using machine vision to detect blockages in filters. Out of respect for confidentiality, no images or technical details of the actual system are included. The documentation presented here is a representative simulation developed by me for demonstration purposes.
+*NOTE: During my experience in the mining sector, I participated in the development of a visual inspection system using machine vision to detect blockages in filters. Out of respect for confidentiality, no images or technical details of the actual system are included. The documentation presented here is a representative simulation developed by me for demonstration purposes.*
 
+This project focuses on reducing inspection time for PPL (Pressure Plate Leaf) filter blockages in mineral processing plants using visual analysis.
 ## 🚀 Project Overview
 
 Traditional inspection of filter blockages is time-consuming and often exposes operators to harsh environments. To address this, I developed a computer vision system capable of detecting clogging in PPL filters automatically.
@@ -30,7 +31,7 @@ To develop and deploy a **computer vision solution** that automatically detects 
 
 1. **Analysis Start**: The process begin after each discharge.
 
-| ![Clogged Filter](https://github.com/user-attachments/assets/1b4e9d1f-6e1f-4032-85de-85e816bb2506) |
+| ![Clogged Filter](https://github.com/user-attachments/assets/eb7b7042-322d-4ba7-87a1-55b98ee92c9c) |
 |:--------------------------------------------------------------------------------------------------:|
 | Discharging                                                                                    |
 
@@ -39,7 +40,7 @@ To develop and deploy a **computer vision solution** that automatically detects 
 4. **Preprocessing**: Enhances image quality and isolates relevant features.
 5. **Make Inferences**: Using mathematical operations and image processing techniques, an inference is generated.
  
-| ![Imagen 1](https://github.com/user-attachments/assets/00daf053-418f-44b9-a9ce-88a23cca7cc9) | ![Imagen 2](https://github.com/user-attachments/assets/27dc428d-a4e4-4574-ae63-a90d512dea47)]|
+| ![Imagen 1](https://github.com/user-attachments/assets/0b77e204-6683-44e8-88e8-14e94b84ca74) | ![Imagen 2](https://github.com/user-attachments/assets/9237a1d5-9aae-4e1b-ba37-99f6a197da85)|
 |:-----------------------------:|:-----------------------------:|
 | Clogged Filter        | Unclogged Filter        |
 
