@@ -31,6 +31,8 @@ To develop and deploy a **computer vision solution** that automatically detects 
 
 1. **Analysis Start**: The process begin after each discharge.
 
+   > Simulated image.
+
 <div align="center">
 
 <table>
@@ -48,7 +50,8 @@ To develop and deploy a **computer vision solution** that automatically detects 
 3. **Image Acquisition**: Captures images of the PPL filter surface in operation.
 4. **Preprocessing**: Enhances image quality and isolates relevant features.
 5. **Make Inferences**: Using mathematical operations and image processing techniques, an inference is generated.
- 
+
+      > Simulated images.
 
 <div align="center">
 
