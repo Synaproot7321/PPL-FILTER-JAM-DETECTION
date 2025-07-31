@@ -31,18 +31,40 @@ To develop and deploy a **computer vision solution** that automatically detects 
 
 1. **Analysis Start**: The process begin after each discharge.
 
-| ![Clogged Filter](https://github.com/user-attachments/assets/eb7b7042-322d-4ba7-87a1-55b98ee92c9c) |
-|:--------------------------------------------------------------------------------------------------:|
-| Discharging                                                                                    |
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/eb7b7042-322d-4ba7-87a1-55b98ee92c9c" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Discharging</strong></td>
+  </tr>
+</table>
+
+</div>
 
 
 3. **Image Acquisition**: Captures images of the PPL filter surface in operation.
 4. **Preprocessing**: Enhances image quality and isolates relevant features.
 5. **Make Inferences**: Using mathematical operations and image processing techniques, an inference is generated.
  
-| ![Imagen 1](https://github.com/user-attachments/assets/0b77e204-6683-44e8-88e8-14e94b84ca74) | ![Imagen 2](https://github.com/user-attachments/assets/9237a1d5-9aae-4e1b-ba37-99f6a197da85)|
-|:-----------------------------:|:-----------------------------:|
-| Clogged Filter        | Unclogged Filter        |
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0b77e204-6683-44e8-88e8-14e94b84ca74" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9237a1d5-9aae-4e1b-ba37-99f6a197da85" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Clogged Filter</strong></td>
+    <td align="center"><strong>Unclogged Filter</strong></td>
+  </tr>
+</table>
+
+</div>
+
 
 
 ## 📊 Impact
