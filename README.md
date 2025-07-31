@@ -1,6 +1,8 @@
 # PPL Filter Blockage Detection with Computer Vision
 
-*NOTE: During my experience in the mining sector, I participated in the development of a visual inspection system using machine vision to detect blockages in filters. Out of respect for confidentiality, no images or technical details of the actual system are included. The documentation presented here is a representative simulation developed by me for demonstration purposes.*
+<p align="justify">
+  <em>NOTE: During my experience in the mining sector, I participated in the development of a visual inspection system using machine vision to detect blockages in filters. Out of respect for confidentiality, no images or technical details of the actual system are included. The documentation presented here is a representative simulation developed by me for demonstration purposes.</em>
+</p>
 
 This project focuses on reducing inspection time for PPL (Pressure Plate Leaf) filter blockages in mineral processing plants using visual analysis.
 ## 🚀 Project Overview
