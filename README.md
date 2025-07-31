@@ -5,15 +5,26 @@
 </p>
 
 This project focuses on reducing inspection time for PPL (Pressure Plate Leaf) filter blockages in mineral processing plants using visual analysis.
+
+---
+
 ## 🚀 Project Overview
 
+<p align="justify">
 Traditional inspection of filter blockages is time-consuming and often exposes operators to harsh environments. To address this, I developed a computer vision system capable of detecting clogging in PPL filters automatically.
+</p>
 
-By integrating image processing techniques and real-time image processing, the system achieved a **reduction in inspection time**, improving operational safety and maintenance efficiency.
+<p align="justify">
+By integrating image processing techniques and real-time image processing, the system achieved a <strong>reduction in inspection time</strong>, improving operational safety and maintenance efficiency.
+</p>
+
+---
 
 ## 📌 Problem Statement
 
 In mining and industrial filtration processes, PPL filters play a crucial role in separating solids from liquids. Blockages in these filters can lead to process inefficiencies, equipment wear, and unexpected downtime. Manual inspection is often slow, imprecise, and exposes personnel to high-risk environments. That's why it's so important to know as quickly as possible when these blockages occur.
+
+---
 
 ## 🎯 Project Objective
 
@@ -28,6 +39,8 @@ To develop and deploy a **computer vision solution** that automatically detects 
 - Python
 - OpenCV
 - Industrial camera 
+
+---
 
 ## 🧠 How It Works
 
@@ -70,15 +83,25 @@ To develop and deploy a **computer vision solution** that automatically detects 
 
 </div>
 
-
+---
 
 ## 📊 Impact
 
-- ⏱️ Reduced inspection time
-- 🔧 Improved maintenance scheduling
-- 🧯 Enhanced operator safety by minimizing manual inspections
-- ⚠️ Prevented excessive clogging
+The PPL-FILTER-JAM-DETECTION system delivers meaningful improvements in filter maintenance and operational efficiency:
 
+- ⏱️ **Faster Inspections**  
+  Reduces the time needed to identify jams or clogs in PPL filters by automating visual analysis.
+
+- 🧯 **Increased Operator Safety**  
+  Minimizes the need for manual inspections in potentially hazardous conditions.
+
+- 🛠️ **Predictive Maintenance**  
+  Enables early detection of obstructions, helping schedule interventions before they become critical.
+
+- 💰 **Cost Optimization**  
+  Reduces unplanned downtime and maintenance expenses by identifying issues in real time.
+
+> This system enhances reliability and productivity in mineral processing environments by providing a lightweight, vision-based monitoring solution.
 
 
 
